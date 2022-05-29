@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pushpendra Kumar</h1>
-<h3 align="center">Upcoming MTS @ Cohesity(India), Backend developer, loves learning and developing new things.</h3>
+<h3 align="center">Upcoming MTS @ Cohesity(India). A passionate backend developer who loves learning & developing new things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pkc3766&label=Profile%20views&color=0e75b6&style=flat" alt="pkc3766" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **System Design**
 
-- 💬 Ask me about **Express, React,Computer Science**
+- 💬 Ask me about **Backend Engineering, Computer Science**
 
 - 📫 How to reach me **pkc3766@gmail.com**
 
