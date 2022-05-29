@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pkc3766" alt="pkc3766" /></a> </p>
 
-- 🔭 I’m currently working on **PiggyBank: A virtual piggybank aiming to help users save more.**
+- 🔭 I’m currently working on **PiggyBank: An app to help users save more.**
 
 - 🌱 I’m currently learning **System Design**
 
