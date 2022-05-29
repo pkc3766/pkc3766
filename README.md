@@ -34,3 +34,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pkc3766&show_icons=true&locale=en&layout=compact" alt="pkc3766" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pkc3766&show_icons=true&locale=en" alt="pkc3766" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pkc3766&" alt="pkc3766" /></p>
