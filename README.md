@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **pkc3766@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3NGvcke](https://bit.ly/3NGvcke)
+- 📄 Know about my experiences [Linkedin Profile](https://www.linkedin.com/in/pushpendra-kumar-2a7341173/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
